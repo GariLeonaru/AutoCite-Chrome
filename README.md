@@ -1,3 +1,5 @@
+![AutoCite](Autocite_cover.jpg)
+
 # AutoCite Chrome Extension Setup Guide
 
 Chrome拡張機能「AutoCite」のセットアップ手順です。
