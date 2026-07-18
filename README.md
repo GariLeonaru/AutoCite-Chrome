@@ -1,3 +1,5 @@
+![AutoCite](Autocite_cover.jpg)
+
 # AutoCite Chrome Extension Setup Guide
 
 ![Autocite カバー画像](Autocite_cover.png)
